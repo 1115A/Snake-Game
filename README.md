@@ -46,7 +46,7 @@ SnakeGame/
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/snakegame.git
+git clone https://github.com/1115A/snakegame.git
 cd snakegame
 
 
